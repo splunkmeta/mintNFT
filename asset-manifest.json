@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mintNFT/static/css/main.0939a641.chunk.css",
+    "main.css": "/mintNFT/static/css/main.bb4785a0.chunk.css",
     "main.js": "/mintNFT/static/js/main.7552f806.chunk.js",
     "main.js.map": "/mintNFT/static/js/main.7552f806.chunk.js.map",
     "runtime-main.js": "/mintNFT/static/js/runtime-main.d5606f49.js",
@@ -10,13 +10,13 @@
     "static/js/3.327d4997.chunk.js": "/mintNFT/static/js/3.327d4997.chunk.js",
     "static/js/3.327d4997.chunk.js.map": "/mintNFT/static/js/3.327d4997.chunk.js.map",
     "index.html": "/mintNFT/index.html",
-    "static/css/main.0939a641.chunk.css.map": "/mintNFT/static/css/main.0939a641.chunk.css.map",
+    "static/css/main.bb4785a0.chunk.css.map": "/mintNFT/static/css/main.bb4785a0.chunk.css.map",
     "static/js/2.a2d45895.chunk.js.LICENSE.txt": "/mintNFT/static/js/2.a2d45895.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d5606f49.js",
     "static/js/2.a2d45895.chunk.js",
-    "static/css/main.0939a641.chunk.css",
+    "static/css/main.bb4785a0.chunk.css",
     "static/js/main.7552f806.chunk.js"
   ]
 }
